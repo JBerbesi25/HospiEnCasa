@@ -35,3 +35,8 @@ C:\Holaweb\HolaWeb.App\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.
 C:\Holaweb\HolaWeb.App\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.pdb
 C:\Holaweb\HolaWeb.App\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.genruntimeconfig.cache
 C:\Holaweb\HolaWeb.App\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\HolaWeb.App.Frontend.csproj.CopyComplete
+C:\Holaweb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Dominio.dll
+C:\Holaweb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Persistencia.dll
+C:\Holaweb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Persistencia.pdb
+C:\Holaweb\HolaWeb.App\HolaWeb.App.Frontend\bin\Debug\netcoreapp3.1\HolaWeb.App.Dominio.pdb
+C:\Holaweb\HolaWeb.App\HolaWeb.App.Frontend\obj\Debug\netcoreapp3.1\Razor\Pages\Saludos\List.cshtml.g.cs
