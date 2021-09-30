@@ -18,7 +18,7 @@ namespace HolaWeb.App.Frontend.Pages
         {
             this.repositorioSaludos=repositorioSaludos;
         }
-        
+
         public void OnGet()
         {
             Saludos=repositorioSaludos.GetAll();
